@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493970996620",
+    "project_id": "samplex2-d19ee",
+    "storage_bucket": "samplex2-d19ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493970996620:android:e2e831065106c7f8ad2aa9",
+        "android_client_info": {
+          "package_name": "com.example.samplex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493970996620-gc7b7hamf5cnckqoaolkscecnmpbdabj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACNOSYRCBaQlr-HTKfw1PHl8Xrcm93Lms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493970996620-gc7b7hamf5cnckqoaolkscecnmpbdabj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
